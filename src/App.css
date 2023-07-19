@@ -5,6 +5,7 @@ body {
     hsla(0, 80%, 80%, 1) 34%,
     hsla(180, 100%, 98%, 1) 100%
   );
+  background-repeat: no-repeat;
   overflow-x: hidden;
 }
 .App {
